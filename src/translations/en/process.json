@@ -1,0 +1,28 @@
+{
+  "title": "Our Supply Chain Process",
+  "subtitle": "From farm to your doorstep with care and precision",
+  "sourcing": {
+    "title": "Sourcing",
+    "description": "Directly source fresh produce from verified farmers with full transparency."
+  },
+  "sorting": {
+    "title": "Sorting",
+    "description": "Careful sorting to ensure only the best quality produce moves forward."
+  },
+  "grading": {
+    "title": "Grading",
+    "description": "Professional grading according to industry standards and quality parameters."
+  },
+  "packaging": {
+    "title": "Packaging",
+    "description": "Safe and sustainable packaging to maintain freshness and quality."
+  },
+  "dispatch": {
+    "title": "Dispatch",
+    "description": "Efficient dispatch system ensuring timely delivery to your location."
+  },
+  "delivery": {
+    "title": "Delivery",
+    "description": "Reliable and timely delivery to your doorstep with care."
+  }
+}

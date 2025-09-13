@@ -1,0 +1,85 @@
+{
+  "app": {
+    "title": "Farm Connect",
+    "description": "Connecting farmers with buyers"
+  },
+  "navigation": {
+    "home": "Home",
+    "farmers": "Our Farmers",
+    "buyers": "For Buyers",
+    "about": "About Us",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "language": {
+    "en": "English",
+    "hi": "हिंदी",
+    "change_language": "Change Language"
+  },
+  "buttons": {
+    "search": "Search",
+    "clear": "Clear",
+    "view_details": "View Details",
+    "contact_farmer": "Contact Farmer",
+    "contact_buyer": "Contact Buyer",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "filters": {
+    "all_categories": "All Categories",
+    "all_locations": "All Locations",
+    "category": "Category",
+    "location": "Location",
+    "sort_by": "Sort By",
+    "price_low_high": "Price: Low to High",
+    "price_high_low": "Price: High to Low",
+    "rating": "Rating"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "forgot_password": "Forgot Password?",
+    "no_account": "Don't have an account?",
+    "have_account": "Already have an account?",
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up"
+  },
+  "validation": {
+    "required": "This field is required",
+    "email_invalid": "Please enter a valid email",
+    "password_length": "Password must be at least 6 characters",
+    "password_match": "Passwords do not match"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to Farm Connect",
+      "subtitle": "Connecting farmers directly with buyers for better prices and quality produce"
+    },
+    "how_it_works": "How It Works",
+    "for_farmers": "For Farmers",
+    "farmers_description": "Connect directly with buyers and get fair prices for your produce without middlemen.",
+    "for_buyers": "For Buyers",
+    "buyers_description": "Source fresh produce directly from local farmers at competitive prices with full traceability.",
+    "secure_payments": "Secure Payments",
+    "payments_description": "Safe and secure payment processing with escrow protection for both parties.",
+    "cta": {
+      "title": "Ready to get started?",
+      "subtitle": "Join Farm Connect today and take control of your farming business.",
+      "button": "Sign Up Now"
+    }
+  },
+  "buttons": {
+    "find_farmers": "Find Farmers",
+    "for_buyers": "For Buyers",
+    "sign_up_now": "Sign Up Now"
+  }
+}

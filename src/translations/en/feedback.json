@@ -1,0 +1,19 @@
+{
+  "title": "Share Your Feedback",
+  "subtitle": "We value your opinion and would love to hear from you!",
+  "form": {
+    "name": "Your Name",
+    "email": "Email Address",
+    "rating": "How would you rate your experience?",
+    "message": "Your Feedback",
+    "submit": "Submit Feedback",
+    "submitting": "Submitting..."
+  },
+  "success": "Thank you for your feedback! We appreciate your time.",
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "ratingRequired": "Please provide a rating",
+    "messageMinLength": "Message must be at least 10 characters"
+  }
+}
